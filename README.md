@@ -1,2 +1,2 @@
-# Datebase
+# Database
 用于提交数据库原理的数据库设计与分析
